@@ -1,4 +1,4 @@
-## in the news.js file edit the API_key by subscribing with a free account at ## www.newsapi.org
+## in the news.js file edit the API_key by subscribing with a free account at ##  https://newsapi.org/
 
 
 *** for Android user *** 
